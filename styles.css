@@ -1,0 +1,17 @@
+#game-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#hole {
+    width: 200px;
+    height: 200px;
+    background-image: url('mole.png'); /* 地鼠的圖片 */
+    background-size: cover;
+    cursor: pointer;
+}
+
+#time-left {
+    font-size: 20px;
+    margin-top: 20px;
+}
